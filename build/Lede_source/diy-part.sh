@@ -86,9 +86,9 @@ cat >"$CLEAR_PATH" <<-EOF
 packages
 config.buildinfo
 feeds.buildinfo
-openwrt-x86-64-generic-kernel.bin
-openwrt-x86-64-generic.manifest
-openwrt-x86-64-generic-squashfs-rootfs.img.gz
+Lede-rockchip-armv8-friendlyarm_nanopi-r2s-generic-kernel.bin
+Lede-rockchip-armv8-friendlyarm_nanopi-r2s.manifest
+Lede-rockchip-armv8-friendlyarm_nanopi-r2s-generic-squashfs-rootfs.img.gz
 sha256sums
 version.buildinfo
 EOF
